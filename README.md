@@ -33,6 +33,9 @@ Following steps were performed in this module:
 - Weather description
 4. The weather data was was added to a new DataFrame and exported the dataframe as a CSV file and saved as WeatherPy_Database.csv
 
+### Retrieve Weather Data Result
+![image](https://user-images.githubusercontent.com/31812730/193473877-f5ea8cf4-5c14-4564-ad78-d099edfa812e.png)
+
 ### Create a Customer Travel Destinations Map
 In this module, potential travel destinations and nearby hotels were identified based on customer's weather preference. 
 
@@ -44,6 +47,9 @@ Following steps were performed in this module:
 5. A CSV file <code>WeatherPy_vacation.csv</code> was created from the DataFrame
 6. A marker layer map was created with a pop-up marker for each city.
 
+### Create a Customer Travel Destinations Map Result
+![image](https://user-images.githubusercontent.com/31812730/193475699-b36b2c0c-8aec-4e39-9dce-77cff06bfae9.png)
+
 ### Create a Travel Itinerary Map
 In this module, Google <code>Directions API</code> was used to create a travel itinerary showing the route between four cities. These four cities were chosen from the customer’s possible travel destinations. 
 
@@ -54,4 +60,10 @@ Following steps were performed in this module:
 4. Google <code>Directions</code> API was used to create a route map.
 5. A marker layer map with a pop-up marker for each city was created. 
 
+### Create a Travel Itinerary Map Result
 
+**Route Map**
+![image](https://user-images.githubusercontent.com/31812730/193476496-bea479ef-49dc-4336-a44a-583cc10e913a.png)
+
+**Marker Layer Map**
+![image](https://user-images.githubusercontent.com/31812730/193476859-e2c98ead-1fd0-4a3e-9f17-97eb47213587.png)
