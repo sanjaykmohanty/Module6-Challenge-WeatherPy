@@ -12,7 +12,7 @@ This project consists of three technical analyses:
 Data Source: OpenWeatherMap's API, Google API (Places, Maps JaveScript, Directions), Software: Python 3.9.12, Jupyter Notebook 6.4.12
 
 ## Summary Report
-In oreder to satisfy the requirements, the project was dived into 3 different modules. 
+After a thoughrough review of the rquiremetnts, the project was dived into 3 different modules. 
 
 - **First Module:** Retrive waether data using Python functions and making OpenWeatherMap's API calls and save the information in a CSV file
 - **Second Module:** Take customer preferences and identify potential travel destinations and nearby hotels 
